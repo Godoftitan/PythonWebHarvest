@@ -16,7 +16,7 @@ A Python-based web data scraping suite for harvesting Chinese novels (with full 
 
 ## Branches
 
-- **novel**: Basic scraper without anti-scraping. [novel branch](https://github.com/yourusername/PythonWebHarvest/tree/novel)
+- **novel**: Basic scraper without anti-scraping. [novel branch]([https://github.com/yourusername/PythonWebHarvest/tree/novel](https://github.com/Godoftitan/PythonWebHarvest/tree/novel?tab=readme-ov-file))
 
 ## Features
 
