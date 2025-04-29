@@ -119,5 +119,5 @@ Please ensure your code follows PEP8 and include tests where applicable.
 
 ## License
 
-This project is licensed under the MIT License. See [LICENSE](LICENSE) for details.
+This project is licensed under the MIT License. See LICENSE for details.
 
